@@ -1,0 +1,36 @@
+.page{
+  width: 100%;
+  margin: 8rem auto;
+}
+
+.contenedor{
+  margin: 0 auto;
+  position: absolute;
+  top: 64px;
+  left: 0;;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  background: url('../img/stars.svg'), #1B1B25;
+}
+
+.astronauts{
+  width: 500px;
+}
+
+.logo{
+  width: 190px;
+}
+
+.conf{
+  color: white;
+  text-align: center;
+}
+
+.details{
+  margin: 1rem 0;
+}
+
+.center{
+  text-align: center;
+}

@@ -1,2 +1,2 @@
-# platzi-bages
-Platzi Badges
+# Platzi Badges
+
